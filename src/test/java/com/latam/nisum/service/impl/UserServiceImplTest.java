@@ -39,7 +39,7 @@ class UserServiceImplTest {
 
     @Test
     void whenRegisterUserSuccess() throws Exception {
-        Phone phone =  new Phone();
+        Phone phone = new Phone();
         phone.setNumber(1L);
         phone.setCityCode(1);
         phone.setCountryCode(1);
@@ -66,7 +66,7 @@ class UserServiceImplTest {
 
     @Test
     void whenRegisterUserWithEmailAlreadyRegistered() {
-        Phone phone =  new Phone();
+        Phone phone = new Phone();
         phone.setNumber(1L);
         phone.setCityCode(1);
         phone.setCountryCode(1);
