@@ -63,7 +63,6 @@ Este proyecto consiste en una aplicación Java que expone una API RESTful para l
 |
 |-- pom.xml
 |-- README.md
-|-- diagrama_solucion.png
 
 ```
 
